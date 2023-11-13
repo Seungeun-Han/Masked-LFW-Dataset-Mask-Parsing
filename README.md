@@ -38,7 +38,7 @@ We utilize our own Face Parsing Model, [This](https://github.com/Seungeun-Han/SC
 -->
 
 <center>
-  <img src="https://github.com/Seungeun-Han/Masked-LFW-Dataset-Mask-Parsing/assets/101082685/e3f221fd-6c2c-41c5-bd76-6d609cad6877" width="85%" height="85%">
+  <img src="https://github.com/Seungeun-Han/Masked-LFW-Dataset-Mask-Parsing/assets/101082685/e3f221fd-6c2c-41c5-bd76-6d609cad6877" width="70%" height="70%">
 </center>
 
 This image illustrates the results of a face parsing technology applied to photographs of people wearing masks. Each row contains three images:
