@@ -16,7 +16,7 @@ You can download this dataset [here](http://whdeng.cn/mlfw/?reload=true).
 
 ## Face_Parsing
 
-We utilize our own Face Parsing Model, [this](https://github.com/Seungeun-Han/SCANet_Real-Time_Face_Parsing_Using_Spatial_and_Channel_Attention).
+We utilize our own Face Parsing Model, [This](https://github.com/Seungeun-Han/SCANet_Real-Time_Face_Parsing_Using_Spatial_and_Channel_Attention).
 
 ### Setting
 - Input Size: 112 X 112
