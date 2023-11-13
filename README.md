@@ -8,7 +8,7 @@ This repository contains code for applying our face parsing technology to the Ma
 
 , Chengrui Wang and Han Fang and Yaoyao Zhong and Weihong Deng, 
 
-You can download this dataset [here](http://whdeng.cn/mlfw/?reload=true).
+You can download this dataset in [here](http://whdeng.cn/mlfw/?reload=true).
 
 ![1](https://github.com/Seungeun-Han/Masked-LFW-Dataset-Mask-Parsing/assets/101082685/cef0ac6a-e9fb-45d9-8a32-ef38849aae84)
 
