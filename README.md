@@ -29,6 +29,12 @@ We utilize our own Face Parsing Model, [This](https://github.com/Seungeun-Han/SC
 
 - Korean Mask Dataset (Our Own)
 
+### Algorithm
+
+We employ this face parsing model to locate the mask regions within the images. 
+Upon identification, the pixel values of these mask areas are set to zero, effectively segmenting and removing the mask from the images. 
+This process allows us to analyze the facial features without the obstruction of the masks.
+
 <hr>
 
 ## Results
