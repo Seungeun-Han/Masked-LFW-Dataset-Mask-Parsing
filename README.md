@@ -6,7 +6,7 @@ This repository contains code for applying our face parsing technology to the Ma
 ## Masked-LFW-Dataset
 [MLFW: A Database for Face Recognition on Masked Faces](https://arxiv.org/abs/2109.05804)
 
-, Chengrui Wang and Han Fang and Yaoyao Zhong and Weihong Deng, 
+, Chengrui Wang and Han Fang and Yaoyao Zhong and Weihong Deng.
 
 You can download this dataset in [here](http://whdeng.cn/mlfw/?reload=true).
 
